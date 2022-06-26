@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Frontend Homework #3 
+#### (프론트엔드 포지션 지원자 강민주)
 
-## Getting Started
+안녕하세요! 트리플 프론트엔드 지원자 강민주 입니다.  
+트리플 홈페이지의 한섹션을 구현하는 것을 과제로 받아 구현했습니다.  
+메인, 과제부분을 포함하여 총 세개의 섹션을 구현하였습니다.
 
-First, run the development server:
+프로젝트는 터미널에 npm run dev을 입력하여 실행하며, 로컬서버가 구동되면 터미널에 명시된 url로 접속하여 페이지를 확인합니다.  
+서버사이드 렌더링을 위해 next.js를 사용하여 구현하였고, css-in-js 처리를 위해 emotion.js를 사용하여 스타일을 작성했습니다.  
+애니메이션은 재사용성을 위해 useScrollCount, useScrollFadein hook을 만들어 적용하였습니다.  
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+이상으로 과제를 볼수있는 기회를 주셔서 감사드리며,  
+면접기회를 주신다면 정말 감사하겠습니다!  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+감사합니다.  
